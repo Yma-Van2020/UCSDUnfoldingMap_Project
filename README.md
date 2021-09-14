@@ -1,17 +1,12 @@
 UCSDUnfoldingMaps
 =================
 
-> Eclipse Project using Processing and Unfolding Maps for UCSD/Coursera Object Oriented Programming in Java.
-
-A very basic Unfolding demo you'll find in the source folder in the default package. 
-For more examples visit http://unfoldingmaps.org, or download the template with
-examples.
-
-The module folders contain the starter code for the programming assignments
-associated with the MOOC.
-
-Get excited and make things!
-
+> This is a map application that gives a visual representation of earthquake information
+            that is obtained in real-time, organized according to their magnitude, and represented in
+            a GUI. The project uses the Unfolding library (http://unfoldingmaps.org/).The map displays a marker on the
+            specific city where the earthquake occurred, the size and color of the
+            marker are based on the magnitude of the earthquake.The main concepts are inheritance and
+            polymorphism, to extend the earthquake marker to city marker, island marker, ocean marker, etc. 
 
 Installation
 ------------
