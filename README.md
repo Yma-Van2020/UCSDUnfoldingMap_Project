@@ -1,7 +1,7 @@
 UCSDUnfoldingMaps
 =================
 
-> This is a map application that gives a visual representation of earthquake information
+ This is a map application that gives a visual representation of earthquake information
             that is obtained in real-time, organized according to their magnitude, and represented in
             a GUI. The project uses the Unfolding library (http://unfoldingmaps.org/).The map displays a marker on the
             specific city where the earthquake occurred, the size and color of the
